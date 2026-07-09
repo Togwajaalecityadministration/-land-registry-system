@@ -59,7 +59,7 @@ The system is built to serve the city administration, land registry officers, an
 
  Office Information
 - **City:** Tog-Wajaale, Ethiopia
-- **Email:** Togwajaalecityadministrationoffice@gmail.com
+- **Email:** togwajaalecityadmin06@gmail.com
 - **Phone:** +251 915 955 925
 
  Our Mission
